@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\bin\Debug\net5.0\HTMLGeneratorLibrary.deps.json
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\bin\Debug\net5.0\HTMLGeneratorLibrary.dll
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\bin\Debug\net5.0\HTMLGeneratorLibrary.pdb
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\HTMLGeneratorLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\HTMLGeneratorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\HTMLGeneratorLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\HTMLGeneratorLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\HTMLGeneratorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\HTMLGeneratorLibrary.dll
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\refint\HTMLGeneratorLibrary.dll
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\HTMLGeneratorLibrary.pdb
+C:\Users\Admin\Desktop\дз\2 курс\visual\HTMLGeneratorLibrary\obj\Debug\net5.0\ref\HTMLGeneratorLibrary.dll
