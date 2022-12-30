@@ -1,0 +1,11 @@
+﻿<html>
+<head>
+<title>Head</title>
+</head>
+<body>
+{{variable.Id}}
+<p>Login and password: <p>
+{{variable.Login}}
+{{variable.Password}}
+</body>
+</html>
