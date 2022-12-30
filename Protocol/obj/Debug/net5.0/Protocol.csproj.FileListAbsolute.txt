@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\bin\Debug\net5.0\Protocol.exe
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\bin\Debug\net5.0\Protocol.deps.json
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\bin\Debug\net5.0\Protocol.runtimeconfig.json
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\bin\Debug\net5.0\Protocol.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\bin\Debug\net5.0\Protocol.dll
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\bin\Debug\net5.0\Protocol.pdb
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\Protocol.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\Protocol.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\Protocol.AssemblyInfo.cs
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\Protocol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\Protocol.dll
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\refint\Protocol.dll
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\Protocol.pdb
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\Protocol.genruntimeconfig.cache
+C:\Users\Admin\Desktop\дз\2 курс\visual\Protocol\obj\Debug\net5.0\ref\Protocol.dll
